@@ -1,6 +1,6 @@
 // stylelint-disable selector-max-id
 
-$gradient: linear-gradient(145deg, #375ee3 0%, #6543e0 80%) !default;
+$gradient: linear-gradient(145deg, #f0f0d0 0%, #6543e0 80%) !default;
 
 body {
   padding-top: 120px;
@@ -137,7 +137,7 @@ iframe {
   padding: 12em 0 6em;
   color: #fff;
   text-align: center;
-  background-color: #375ee3;
+  background-color: #f0f0do;
   background-image: url("../img/splash.svg"), $gradient;
   background-repeat: no-repeat;
   background-size: cover;
